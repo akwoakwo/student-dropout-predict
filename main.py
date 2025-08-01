@@ -1,8 +1,6 @@
 import streamlit as st 
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 import joblib
 from sklearn.preprocessing import OrdinalEncoder
 from scipy.stats import chi2_contingency
